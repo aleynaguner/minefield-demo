@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\ALEYNA\GitHub\minefield-demo\minefield-demo\bin\Debug\minefield-demo.exe.config
+C:\Users\ASUS\Desktop\ALEYNA\GitHub\minefield-demo\minefield-demo\bin\Debug\minefield-demo.exe
+C:\Users\ASUS\Desktop\ALEYNA\GitHub\minefield-demo\minefield-demo\bin\Debug\minefield-demo.pdb
+C:\Users\ASUS\Desktop\ALEYNA\GitHub\minefield-demo\minefield-demo\obj\Debug\minefield-demo.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ALEYNA\GitHub\minefield-demo\minefield-demo\obj\Debug\minefield_demo.Form1.resources
+C:\Users\ASUS\Desktop\ALEYNA\GitHub\minefield-demo\minefield-demo\obj\Debug\minefield_demo.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ALEYNA\GitHub\minefield-demo\minefield-demo\obj\Debug\minefield-demo.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ALEYNA\GitHub\minefield-demo\minefield-demo\obj\Debug\minefield-demo.exe
+C:\Users\ASUS\Desktop\ALEYNA\GitHub\minefield-demo\minefield-demo\obj\Debug\minefield-demo.pdb
